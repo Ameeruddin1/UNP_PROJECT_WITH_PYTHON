@@ -20,4 +20,4 @@ Completed during my Python (Machine Learning) internship with United Network of 
 
 **Links**:  
 - **Colab Notebook**: [Click here](https://colab.research.google.com/drive/1yTmsOyFsZbus9i6xFbrsW86QCzLWBA5w?usp=sharing)  
-**Project Presentation**: [Click here](https://github.com/Ameeruddin1/UNP_PROJECT_WITH_PYTHON/blob/main/SS_BY_GRP6.pdf)
+**Project Presentation**: [Click here](https://github.com/Ameeruddin1/UNP_PROJECT_WITH_PYTHON/blob/file:///C:/Users/DELL/AppData/Local/Microsoft/Windows/INetCache/IE/RWRUHYPP/SS_BY_GRP6[1].pdf)
