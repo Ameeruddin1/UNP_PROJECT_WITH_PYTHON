@@ -20,4 +20,4 @@ Completed during my Python (Machine Learning) internship with United Network of 
 
 **Links**:  
 - **Colab Notebook**: [Click here](https://colab.research.google.com/drive/1yTmsOyFsZbus9i6xFbrsW86QCzLWBA5w?usp=sharing)  
-- **Project Presentation**:[Click here](Click here)
+- **Project Presentation**:[Click here](file:///C:/Users/DELL/AppData/Local/Microsoft/Windows/INetCache/IE/V3ETL94N/SS_BY_GRP6[1])
