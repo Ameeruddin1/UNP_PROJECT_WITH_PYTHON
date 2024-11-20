@@ -20,5 +20,4 @@ Completed during my Python (Machine Learning) internship with United Network of 
 
 **Links**:  
  **Colab Notebook**: [Click here](https://colab.research.google.com/drive/1yTmsOyFsZbus9i6xFbrsW86QCzLWBA5w?usp=sharing)  
-**Project Presentation**: [Click here](https://docs.google.com/document/d/1QF5rnYPBC4Mpbgat-eJbS9CAG5IYH3PBtVtM_0qWNSo/edit?tab=t.0
-)
+**Project Presentation**: [Click here](https://docs.google.com/document/d/1QF5rnYPBC4Mpbgat-eJbS9CAG5IYH3PBtVtM_0qWNSo/edit?usp=sharing)
